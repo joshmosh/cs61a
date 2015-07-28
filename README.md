@@ -16,9 +16,9 @@ This repository contains all the work I have done both in class and for homework
 - Importing Library Functions
 - Environments
 
-#### Homework
+#### Other
 
-- HW1
+- Homework 1
 
 ## Week 2
 
@@ -33,6 +33,8 @@ This repository contains all the work I have done both in class and for homework
   - Testings
 - Higher Order Functions
 
-#### Quizes
+#### Other
 
-- QUIZ1
+- Homework 2
+- Lab 2
+- Quiz1
