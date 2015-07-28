@@ -35,4 +35,4 @@ This repository contains all the work I have done both in class and for homework
 
 #### Quizes
 
-- QUIZ2
+- QUIZ1
