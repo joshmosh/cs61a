@@ -32,3 +32,7 @@ This repository contains all the work I have done both in class and for homework
   - Iteration
   - Testings
 - Higher Order Functions
+
+#### Quizes
+
+- QUIZ2
